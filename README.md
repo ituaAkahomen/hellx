@@ -21,7 +21,7 @@ The time we greeted you.
 ## Example usage
 
 ```yaml
-uses: nehunx64/hello-x@0.1
+uses: itAkahomen/hello-x@0.1
 with:
   who-to-greet: 'Captain Babarosa'
 ```
